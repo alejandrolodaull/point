@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/alejandrolodaull/point/badge.svg?branch=master)](https://coveralls.io/github/alejandrolodaull/point?branch=master)
+
 # Point
 
 Creación de una gema con la clase que representa un punto en el espacio bidimensional.
